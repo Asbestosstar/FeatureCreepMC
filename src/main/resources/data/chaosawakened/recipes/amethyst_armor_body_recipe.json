@@ -1,0 +1,39 @@
+{
+  "group": "chaosawakened",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "chaosawakened:amethyst"
+    },
+    "2": {
+      "item": "chaosawakened:amethyst"
+    },
+    "3": {
+      "item": "chaosawakened:amethyst"
+    },
+    "4": {
+      "item": "chaosawakened:amethyst"
+    },
+    "5": {
+      "item": "chaosawakened:amethyst"
+    },
+    "6": {
+      "item": "chaosawakened:amethyst"
+    },
+    "7": {
+      "item": "chaosawakened:amethyst"
+    },
+    "8": {
+      "item": "chaosawakened:amethyst"
+    }
+  },
+  "result": {
+    "item": "chaosawakened:amethyst_armor_chestplate",
+    "count": 1
+  }
+}

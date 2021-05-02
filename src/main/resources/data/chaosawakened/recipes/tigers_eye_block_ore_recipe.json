@@ -1,0 +1,13 @@
+{
+  "group": "chaosawakened",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chaosawakened:tigers_eye_block"
+    }
+  ],
+  "result": {
+    "item": "chaosawakened:tigers_eye_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "chaosawakened",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "chaosawakened:aluminium_ingot"
+    },
+    "1": {
+      "item": "chaosawakened:aluminium_ingot"
+    },
+    "2": {
+      "item": "chaosawakened:aluminium_ingot"
+    },
+    "3": {
+      "item": "chaosawakened:aluminium_ingot"
+    },
+    "4": {
+      "item": "chaosawakened:aluminium_ingot"
+    },
+    "5": {
+      "item": "chaosawakened:aluminium_ingot"
+    },
+    "6": {
+      "item": "chaosawakened:aluminium_ingot"
+    },
+    "7": {
+      "item": "chaosawakened:aluminium_ingot"
+    },
+    "8": {
+      "item": "chaosawakened:aluminium_ingot"
+    }
+  },
+  "result": {
+    "item": "chaosawakened:aluminium_block",
+    "count": 1
+  }
+}

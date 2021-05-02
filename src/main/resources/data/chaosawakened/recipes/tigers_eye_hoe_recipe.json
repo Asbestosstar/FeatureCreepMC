@@ -1,0 +1,27 @@
+{
+  "group": "chaosawakened",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "chaosawakened:tigers_eye_ingot"
+    },
+    "1": {
+      "item": "chaosawakened:tigers_eye_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "chaosawakened:tigers_eye_hoe",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "chaosawakened",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "chaosawakened:ruby"
+    },
+    "1": {
+      "item": "chaosawakened:ruby"
+    },
+    "2": {
+      "item": "chaosawakened:ruby"
+    },
+    "3": {
+      "item": "chaosawakened:ruby"
+    },
+    "4": {
+      "item": "chaosawakened:ruby"
+    },
+    "5": {
+      "item": "chaosawakened:ruby"
+    },
+    "6": {
+      "item": "chaosawakened:ruby"
+    },
+    "7": {
+      "item": "chaosawakened:ruby"
+    },
+    "8": {
+      "item": "chaosawakened:ruby"
+    }
+  },
+  "result": {
+    "item": "chaosawakened:ruby_block",
+    "count": 1
+  }
+}

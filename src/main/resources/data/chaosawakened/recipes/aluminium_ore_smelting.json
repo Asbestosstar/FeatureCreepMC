@@ -1,0 +1,12 @@
+{
+  "group": "chaosawakened",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "chaosawakened:aluminium_ore"
+  },
+  "result": {
+    "item": "chaosawakened:aluminium_ingot"
+  }
+}

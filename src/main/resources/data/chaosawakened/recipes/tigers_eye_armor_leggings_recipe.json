@@ -1,0 +1,36 @@
+{
+  "group": "chaosawakened",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "chaosawakened:tigers_eye_ingot"
+    },
+    "1": {
+      "item": "chaosawakened:tigers_eye_ingot"
+    },
+    "2": {
+      "item": "chaosawakened:tigers_eye_ingot"
+    },
+    "3": {
+      "item": "chaosawakened:tigers_eye_ingot"
+    },
+    "5": {
+      "item": "chaosawakened:tigers_eye_ingot"
+    },
+    "6": {
+      "item": "chaosawakened:tigers_eye_ingot"
+    },
+    "8": {
+      "item": "chaosawakened:tigers_eye_ingot"
+    }
+  },
+  "result": {
+    "item": "chaosawakened:tigers_eye_armor_leggings",
+    "count": 1
+  }
+}

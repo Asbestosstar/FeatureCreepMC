@@ -1,0 +1,42 @@
+{
+  "group": "chaosawakened",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "chaosawakened:salt_dust"
+    },
+    "1": {
+      "item": "chaosawakened:salt_dust"
+    },
+    "2": {
+      "item": "chaosawakened:salt_dust"
+    },
+    "3": {
+      "item": "chaosawakened:salt_dust"
+    },
+    "4": {
+      "item": "chaosawakened:salt_dust"
+    },
+    "5": {
+      "item": "chaosawakened:salt_dust"
+    },
+    "6": {
+      "item": "chaosawakened:salt_dust"
+    },
+    "7": {
+      "item": "chaosawakened:salt_dust"
+    },
+    "8": {
+      "item": "chaosawakened:salt_dust"
+    }
+  },
+  "result": {
+    "item": "chaosawakened:salt_block",
+    "count": 1
+  }
+}

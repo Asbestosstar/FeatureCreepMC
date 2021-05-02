@@ -1,0 +1,13 @@
+{
+  "group": "chaosawakened",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chaosawakened:aluminium_block"
+    }
+  ],
+  "result": {
+    "item": "chaosawakened:aluminium_ingot",
+    "count": 9
+  }
+}

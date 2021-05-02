@@ -1,0 +1,26 @@
+{
+  "group": "chaosawakened",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "chaosawakened:amethyst"
+    },
+    "2": {
+      "item": "chaosawakened:amethyst"
+    },
+    "3": {
+      "item": "chaosawakened:amethyst"
+    },
+    "5": {
+      "item": "chaosawakened:amethyst"
+    }
+  },
+  "result": {
+    "item": "chaosawakened:amethyst_armor_boots",
+    "count": 1
+  }
+}

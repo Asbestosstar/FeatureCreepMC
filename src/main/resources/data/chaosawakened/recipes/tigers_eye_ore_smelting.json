@@ -1,0 +1,12 @@
+{
+  "group": "chaosawakened",
+  "type": "minecraft:smelting",
+  "experience": 2.8,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "chaosawakened:tigers_eye_ore"
+  },
+  "result": {
+    "item": "chaosawakened:tigers_eye_ingot"
+  }
+}

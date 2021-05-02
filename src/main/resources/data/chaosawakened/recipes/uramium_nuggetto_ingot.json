@@ -1,0 +1,37 @@
+{
+  "group": "chaosawakened",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chaosawakened:uramium_nugget"
+    },
+    {
+      "item": "chaosawakened:uramium_nugget"
+    },
+    {
+      "item": "chaosawakened:uramium_nugget"
+    },
+    {
+      "item": "chaosawakened:uramium_nugget"
+    },
+    {
+      "item": "chaosawakened:uramium_nugget"
+    },
+    {
+      "item": "chaosawakened:uramium_nugget"
+    },
+    {
+      "item": "chaosawakened:uramium_nugget"
+    },
+    {
+      "item": "chaosawakened:uramium_nugget"
+    },
+    {
+      "item": "chaosawakened:uramium_nugget"
+    }
+  ],
+  "result": {
+    "item": "chaosawakened:uranium_ingot",
+    "count": 1
+  }
+}

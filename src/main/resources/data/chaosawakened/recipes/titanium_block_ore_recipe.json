@@ -1,0 +1,13 @@
+{
+  "group": "chaosawakened",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chaosawakened:titanium_block"
+    }
+  ],
+  "result": {
+    "item": "chaosawakened:titanium_ingot",
+    "count": 9
+  }
+}

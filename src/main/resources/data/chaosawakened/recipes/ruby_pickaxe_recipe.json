@@ -1,0 +1,30 @@
+{
+  "group": "chaosawakened",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "chaosawakened:ruby"
+    },
+    "1": {
+      "item": "chaosawakened:ruby"
+    },
+    "2": {
+      "item": "chaosawakened:ruby"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "chaosawakened:ruby_pickaxe",
+    "count": 1
+  }
+}
